@@ -2,4 +2,8 @@ My first DevOps GitHub project
 Learning Git and GitHub
 Practicing commits and pushes
 Feature: User login functionality
+
 Login feature version B
+
+Login feature version A
+
