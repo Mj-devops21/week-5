@@ -7,3 +7,5 @@ Login feature version B
 
 Login feature version A
 
+Feature: User dashboard
+
